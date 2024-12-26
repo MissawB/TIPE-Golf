@@ -32,7 +32,7 @@ Ce projet s'inscrit dans le cadre du **TIPE 2023/2024** et explore l'optimisatio
 
 ## Dépendances
 
-- **Python** 3.9+
+- **Python** 3.3+
 - Bibliothèques nécessaires :
   - `numpy`
   - `matplotlib`
